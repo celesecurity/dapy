@@ -24,6 +24,7 @@ Este script foi desenvolvido em Python 3 e não requer bibliotecas adicionais al
 3. (Opcional) Crie e ative um ambiente virtual:
 
    python3 -m venv venv
+   
    source venv/bin/activate
    
 ## Uso
